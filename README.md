@@ -37,3 +37,7 @@
 
 - LinkedIn: https://www.linkedin.com/in/shriya-barai-bb1582380?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - Instagram: https://www.instagram.com/__.shriyya?igsh=MWY2anZ3MmRwOTlkbw==
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Shriyya06/Shriyya06/blob/output/github-contribution-grid-snake.svg)
