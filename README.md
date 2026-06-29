@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shriya</h1>
 
-<!--
-**Shriyya06/Shriyya06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">💻 Aspiring Full Stack Developer 🚀</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Currently learning **Frontend**
+- 💻 Building projects and improving my skills
+- 🎯 Goal: Become a Full Stack Developer
+- 📍 India 🇮🇳
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shriyya06&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Shriyya06&theme=tokyonight)
+
+---
+
+## 🌟 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/shriya-barai-bb1582380?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Instagram: https://www.instagram.com/__.shriyya?igsh=MWY2anZ3MmRwOTlkbw==
