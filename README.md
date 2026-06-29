@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Shriya</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F75C7E&size=30&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Shriya+👋;Aspiring+Full+Stack+Developer+💻;Learning+JavaScript+🚀)](https://git.io/typing-svg)
 
-<h3 align="center">💻 Aspiring Full Stack Developer 🚀</h3>
+<h3 align="center">💻 Aspiring Full Stack Developer, Building products, data system & AI Solutions 🚀</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Frontend**
+- 🌱 Currently learning **JavaScript**
 - 💻 Building projects and improving my skills
 - 🎯 Goal: Become a Full Stack Developer
-- 📍 India 🇮🇳
+- 📍 Nagpur
 
 ---
 
@@ -23,8 +23,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shriyya06&show_icons=true&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shriyya06&show_icons=true&theme=tokyonight" />
+</p>
 ---
 
 ## 🔥 GitHub Streak
@@ -33,11 +34,17 @@
 
 ---
 
-## 🌟 Connect With Me
+## 🌐 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/shriya-barai-bb1582380?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- Instagram: https://www.instagram.com/__.shriyya?igsh=MWY2anZ3MmRwOTlkbw==
+<p align="left">
+<a href="https://www.linkedin.com/in/shriya-barai-bb1582380">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
+<a href="https://www.instagram.com/__shriyya">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</p>
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Shriyya06/Shriyya06/blob/output/github-contribution-grid-snake.svg)
