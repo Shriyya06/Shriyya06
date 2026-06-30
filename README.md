@@ -21,12 +21,12 @@
 </p>
  
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=arnav7777&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arnav7777&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Shriyya06&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shriyya06&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arnav7777&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=arnav7777&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=Shriyya06&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
 ## Google Arcade
 
@@ -40,7 +40,7 @@ Feel free to reach out if you'd like to collaborate on a project or just want to
 [![](https://visitcount.itsvg.in/api?id=shriyya06&icon=0&color=2)]()
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-light.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shriyya06/Shriyya06/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shriyya06/Shriyya06/output/github-snake-light.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Shriyya06/Shriyya06/output/github-snake-light.svg">
 </picture>
